@@ -25,6 +25,7 @@ wheels/
 
 # Downloaded orders
 orders/
+test_orders/
 *.pdf
 
 # Logs
@@ -40,3 +41,12 @@ orders/
 # OS
 .DS_Store
 Thumbs.db
+
+# Test files
+test_chrome.py
+test_scraper.py
+test_scraper.log
+
+# Chrome installer
+google-chrome-stable_current_amd64.deb
+*.deb
