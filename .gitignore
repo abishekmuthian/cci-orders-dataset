@@ -26,6 +26,7 @@ wheels/
 # Downloaded orders
 orders/
 test_orders/
+orders_demo/
 *.pdf
 
 # Logs
@@ -46,6 +47,8 @@ Thumbs.db
 test_chrome.py
 test_scraper.py
 test_scraper.log
+analyze_website.py
+cci_page_analysis.html
 
 # Chrome installer
 google-chrome-stable_current_amd64.deb
